@@ -1,16 +1,39 @@
-### Hi there 👋
+Rini Joy - Full Stack Developer
+🌐 About Me
+Pronouns: She/her
+Location: Calgary, AB
+Contact: +1 825 365 1227 | rinimani7@gmail.com
+Portfolio: GitHub | LinkedIn
+👩‍💻 Summary
+Experienced Full Stack Developer and an engineering graduate with a master’s in business administration, transitioning from a background in cost control to the dynamic field of technology. Committed to impactful projects and problem-solving. Currently pursuing a Full Stack Developer Program at InceptionU, Calgary.
 
-<!--
-**RiniJ7/RiniJ7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Education
+Full Stack Developer Program (Onsite)
+InceptionU, Calgary, AB (Feb 2023 - Jul 2023)
+Ongoing projects: Indeygo Fundraising, Connect Cause, Educator Game
+Google Professional UX Certificate
+Coursera (Dec 2021 - Nov 2022)
+M.B.A. in Finance
+PSG Institute of Management, Coimbatore, India (Jun 2010 - May 2012)
+B.Tech. in Electronics & Communication
+Mahatma Gandhi University, Kerala, India (Jun 2006 - May 2010)
+🚀 Skills
+Languages & Frameworks: React.js, Node.js, JavaScript, MongoDB, HTML & CSS, TypeScript, PostgreSQL
+Tools: Git, Postman
+Wireframing/Prototyping: Figma, Adobe XD
+Methodologies: Agile/Scrum
+UX/UI: User Research, Usability Studies, Design (Figma, Adobe XD)
+🤝 Volunteer Experience
+User Testing/Usability Testing/ User Research Team Lead
+IncluCity Calgary – Dec 2022 to Present
+Leading usability testing for the City of Calgary and the University of Calgary, enhancing software inclusivity.
+💼 Work Experience
+Software Developer (Contract|Part-Time)
+New Idea Machine, Calgary, AB (Oct 2023 - Present)
+Currently involved in empathizing, ideating, and prototyping a Grocery Application using TypeScript, React, PostgreSQL, and Node.
+📬 Contact
+Feel free to reach out for collaboration or discussions:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: rinimani7@gmail.com
+LinkedIn: LinkedIn
+GitHub: GitHub
