@@ -1,11 +1,17 @@
 Rini Joy - Full Stack Developer
+
 🌐 About Me
 Pronouns: She/her
 Location: Calgary, AB
 Contact: +1 825 365 1227 | rinimani7@gmail.com
 Portfolio: GitHub | LinkedIn
+
+
+
 👩‍💻 Summary
 Experienced Full Stack Developer and an engineering graduate with a master’s in business administration, transitioning from a background in cost control to the dynamic field of technology. Committed to impactful projects and problem-solving. Currently pursuing a Full Stack Developer Program at InceptionU, Calgary.
+
+
 
 🎓 Education
 Full Stack Developer Program (Onsite)
@@ -17,16 +23,24 @@ M.B.A. in Finance
 PSG Institute of Management, Coimbatore, India (Jun 2010 - May 2012)
 B.Tech. in Electronics & Communication
 Mahatma Gandhi University, Kerala, India (Jun 2006 - May 2010)
+
+
+
 🚀 Skills
 Languages & Frameworks: React.js, Node.js, JavaScript, MongoDB, HTML & CSS, TypeScript, PostgreSQL
 Tools: Git, Postman
 Wireframing/Prototyping: Figma, Adobe XD
 Methodologies: Agile/Scrum
 UX/UI: User Research, Usability Studies, Design (Figma, Adobe XD)
+
+
+
 🤝 Volunteer Experience
 User Testing/Usability Testing/ User Research Team Lead
 IncluCity Calgary – Dec 2022 to Present
 Leading usability testing for the City of Calgary and the University of Calgary, enhancing software inclusivity.
+
+
 💼 Work Experience
 Software Developer (Contract|Part-Time)
 New Idea Machine, Calgary, AB (Oct 2023 - Present)
