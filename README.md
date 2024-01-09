@@ -1,3 +1,7 @@
+
+![2](https://github.com/RiniJ7/RiniJ7/assets/125235432/6363491e-962b-46e2-9ef3-02e588ae74c0)
+
+
 Rini Joy - Full Stack Developer
 
 🌐 About Me
