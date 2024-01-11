@@ -58,3 +58,7 @@ Feel free to reach out for collaboration or discussions:
 Email: rinimani7@gmail.com
 LinkedIn: LinkedIn
 GitHub: GitHub
+
+##S nake eating my contribution graph
+
+![snake gif](https://github.com/RiniJ7/RiniJ7/blob/output/github-contribution-grid-snake.gif)
