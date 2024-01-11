@@ -52,24 +52,12 @@ Leading usability testing for the City of Calgary and the University of Calgary,
 Software Developer (Contract|Part-Time)
 New Idea Machine, Calgary, AB (Oct 2023 - Present)
 Currently involved in empathizing, ideating, and prototyping a Grocery Application using TypeScript, React, PostgreSQL, and Node.
-📬 Contact
-Feel free to reach out for collaboration or discussions:
-
-Email: rinimani7@gmail.com
-LinkedIn: LinkedIn
-GitHub: GitHub
-
-##Snake eating my contribution graph
-
-![snake gif](https://github.com/RiniJ7/RiniJ7/blob/output/github-contribution-grid-snake.gif)
-
-![Snake animation](https://github.com/RiniJ7/RiniJ7/blob/output/github-contribution-grid-snake.svg)
 
 
-## Contact 
+## 📬 Contact 
 <div> 
   <a href="https://www.linkedin.com/in/rini-joy-5957a437/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/rinimani7" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/rinimani7" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto: rinimani7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
