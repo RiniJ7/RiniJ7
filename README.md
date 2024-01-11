@@ -62,3 +62,7 @@ GitHub: GitHub
 ##Snake eating my contribution graph
 
 ![snake gif](https://github.com/RiniJ7/RiniJ7/blob/output/github-contribution-grid-snake.gif)
+
+![Snake animation](https://github.com/RiniJ7/RiniJ7/blob/output/github-contribution-grid-snake.svg)
+
+
