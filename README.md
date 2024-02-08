@@ -1,5 +1,5 @@
 
-![2](https://github.com/RiniJ7/RiniJ7/assets/125235432/82d9b9b7-4d84-4edb-8d28-dd6f3ce0c210)
+
 
 
 
@@ -29,7 +29,9 @@ PSG Institute of Management, Coimbatore, India (Jun 2010 - May 2012)
 B.Tech. in Electronics & Communication
 Mahatma Gandhi University, Kerala, India (Jun 2006 - May 2010)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiniJ7)](https://github.com/RiniJ7/github-readme-stats)
+
+![Rini's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiniJ7&show_icons=true&theme=radical)
+
 
 🚀 Skills
 Languages & Frameworks: React.js, Node.js, JavaScript, MongoDB, HTML & CSS, TypeScript, PostgreSQL
