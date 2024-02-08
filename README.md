@@ -29,16 +29,24 @@ PSG Institute of Management, Coimbatore, India (Jun 2010 - May 2012)
 B.Tech. in Electronics & Communication
 Mahatma Gandhi University, Kerala, India (Jun 2006 - May 2010)
 
-
-![Rini's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiniJ7&show_icons=true&theme=radical)
+<box>
+<a href="https://github.com/RiniJ7/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RiniJ7&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/RiniJ7/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RiniJ7&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+</a>
+</box>
 
 
 🚀 Skills
-Languages & Frameworks: React.js, Node.js, JavaScript, MongoDB, HTML & CSS, TypeScript, PostgreSQL
+
+<p>Languages & Frameworks: React.js, Node.js, JavaScript, MongoDB, HTML & CSS, TypeScript, PostgreSQL
 Tools: Git, Postman
 Wireframing/Prototyping: Figma, Adobe XD
 Methodologies: Agile/Scrum
 UX/UI: User Research, Usability Studies, Design (Figma, Adobe XD)
+</p>
 ![image](https://github.com/RiniJ7/RiniJ7/assets/125235432/a852a6e8-4ed5-46db-b063-db642beb4526)![image](https://github.com/RiniJ7/RiniJ7/assets/125235432/0a82e925-00bf-4a70-848d-d807c92b2524)
 
 
