@@ -43,8 +43,6 @@ Mahatma Gandhi University, Kerala, India (Jun 2006 - May 2010)
 
 
 🚀 Skills
-
-
 <p>Languages & Frameworks: React.js, Node.js, JavaScript, MongoDB, HTML & CSS, TypeScript, PostgreSQL
 Tools: Git, Postman
 Wireframing/Prototyping: Figma, Adobe XD
@@ -55,16 +53,16 @@ UX/UI: User Research, Usability Studies, Design (Figma, Adobe XD)
 
 
 🤝 Volunteer Experience
-User Testing/Usability Testing/ User Research Team Lead
+<p>User Testing/Usability Testing/ User Research Team Lead
 IncluCity Calgary – Dec 2022 to Present
 Leading usability testing for the City of Calgary and the University of Calgary, enhancing software inclusivity.
-
+</p>
 
 💼 Work Experience
-Software Developer (Contract|Part-Time)
+<p>Software Developer (Contract|Part-Time)
 New Idea Machine, Calgary, AB (Oct 2023 - Present)
 Currently involved in empathizing, ideating, and prototyping a Grocery Application using TypeScript, React, PostgreSQL, and Node.
-
+</p>
 
 ## 📬 Contact 
 <div> 
