@@ -29,7 +29,7 @@ PSG Institute of Management, Coimbatore, India (Jun 2010 - May 2012)
 B.Tech. in Electronics & Communication
 Mahatma Gandhi University, Kerala, India (Jun 2006 - May 2010)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiniJ7)](https://github.com/RiniJ7/github-readme-stats)
 
 🚀 Skills
 Languages & Frameworks: React.js, Node.js, JavaScript, MongoDB, HTML & CSS, TypeScript, PostgreSQL
