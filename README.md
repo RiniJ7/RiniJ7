@@ -1,3 +1,5 @@
+![Pastel Floral Watercolor Illustration Hand Made Art LinkedIn Article Cover Images](https://github.com/RiniJ7/RiniJ7/assets/125235432/d47b2bb8-23d7-4abf-9225-dabb07dac20a)
+
 
 Rini Joy - Full Stack Developer
 
