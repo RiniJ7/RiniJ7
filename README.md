@@ -1,6 +1,10 @@
 
 Rini Joy - Full Stack Developer
 
+![GitHub followers](https://img.shields.io/github/followers/RiniJ7?style=for-the-badge)
+
+
+
 🌐 About Me
 Pronouns: She/her
 Location: Calgary, AB
@@ -36,6 +40,8 @@ Mahatma Gandhi University, Kerala, India (Jun 2006 - May 2010)
 
 
 🚀 Skills
+
+![Static Badge](https://img.shields.io/badge/Demo_badge-red)
 
 <p>Languages & Frameworks: React.js, Node.js, JavaScript, MongoDB, HTML & CSS, TypeScript, PostgreSQL
 Tools: Git, Postman
