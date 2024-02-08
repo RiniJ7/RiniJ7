@@ -1,8 +1,4 @@
 
-
-
-
-
 Rini Joy - Full Stack Developer
 
 🌐 About Me
@@ -47,8 +43,6 @@ Wireframing/Prototyping: Figma, Adobe XD
 Methodologies: Agile/Scrum
 UX/UI: User Research, Usability Studies, Design (Figma, Adobe XD)
 </p>
-![image](https://github.com/RiniJ7/RiniJ7/assets/125235432/a852a6e8-4ed5-46db-b063-db642beb4526)![image](https://github.com/RiniJ7/RiniJ7/assets/125235432/0a82e925-00bf-4a70-848d-d807c92b2524)
-
 
 
 
