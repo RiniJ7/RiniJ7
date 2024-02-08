@@ -32,14 +32,14 @@ PSG Institute of Management, Coimbatore, India (Jun 2010 - May 2012)
 B.Tech. in Electronics & Communication
 Mahatma Gandhi University, Kerala, India (Jun 2006 - May 2010)
 
-<box>
+<kbd>
 <a href="https://github.com/RiniJ7/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RiniJ7&show_icons=true&theme=radical" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=RiniJ7&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/RiniJ7/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RiniJ7&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=RiniJ7&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
 </a>
-</box>
+</kbd>
 
 
 🚀 Skills
