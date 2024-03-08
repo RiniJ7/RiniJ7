@@ -1,14 +1,28 @@
 ![Pastel Floral Watercolor Illustration Hand Made Art LinkedIn Article Cover Images](https://github.com/RiniJ7/RiniJ7/assets/125235432/d47b2bb8-23d7-4abf-9225-dabb07dac20a)
 
 
-🌐 *About Me*
+## 💬 About Me
 -----
-Pronouns: She/her
-Location: Calgary, AB
-Contact: +1 825 365 1227 | rinimani7@gmail.com
-Portfolio: GitHub | LinkedIn
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+<!-- <img align="right" alt="GIF" src="https://github.com/yanliu1111/yanliu1111/blob/main/code.gif?raw=true" height="190" title="Do what you like, and do it best!"> 
+<p align="left"> -->
+- 🌎 I am FullStack developer in real world.<br>
+- 💖 I appreciate the challenge of contributing to open-source projects. <br>
+- 🚀 I am enthusiastic about frontend and middleware development.<br>
+- 🐰 Currently, I enjoy learning to develop minimum viable tech products<br>
+- 🤗 Thank you for following my GitHub and giving my repository stars. <br>
+</p>
+</div>
 
+## 📬 How to reach me <img align="center" src="https://api.visitorbadge.io/api/visitors?path=RiniJ7&label=Visitor%20Badge&labelColor=%232ccce4&countColor=%23263759)](https://visitorbadge.io/status?path=RiniJ7" /></a>
+-----
 
+<div> 
+  <a href="https://www.linkedin.com/in/rini-joy-5957a437/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/rinimani7" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "mailto: rinimani7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
 
 👩‍💻 Summary
 Experienced Full Stack Developer and an engineering graduate with a master’s in business administration, transitioning from a background in cost control to the dynamic field of technology. Committed to impactful projects and problem-solving. Currently pursuing a Full Stack Developer Program at InceptionU, Calgary.
@@ -50,18 +64,10 @@ UX/UI: User Research, Usability Studies, Design (Figma, Adobe XD)
 -----
 
 
-📬 *How to reach me*   *[![Visitors](https://api.visitorbadge.io/api/visitors?path=RiniJ7&label=Visitor%20Badge&labelColor=%232ccce4&countColor=%23263759)](https://visitorbadge.io/status?path=RiniJ7)*
------
 
-<div> 
-  <a href="https://www.linkedin.com/in/rini-joy-5957a437/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/rinimani7" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto: rinimani7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
-
-</br>
  
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+
  
 <div style="width: 75px; height: 75px; overflow: hidden;">
     <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Alt Text" style="max-width: 100%; height: auto;">
