@@ -16,13 +16,14 @@
 
 ## 📬 How to reach me <img align="center" src="https://api.visitorbadge.io/api/visitors?path=RiniJ7&label=Visitor%20Badge&labelColor=%232ccce4&countColor=%23263759)](https://visitorbadge.io/status?path=RiniJ7" /></a>
 -----
+<p align="left">
+  <a href="https://www.linkedin.com/in/rini-joy-5957a437/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rini-joy-5957a437" height="40" width="40" /></a>&nbsp&nbsp
+  <a href="https://rinijoy.com/" target="_blank" title="My Portfolio"><img align="center" src="https://icons8.com/icon/Meg71w7epZVz/portfolio" alt="rini-joy-portfolio" height="40" width="40" /></a>&nbsp&nbsp
+  <a href="rinimani7@gmail.com" target="_blank" title="Gmail"><img align="center" src="https://icons8.com/icon/P7UIlhbpWzZm/gmail" alt="rini-joy-gmail" height="40" width="40" /></a>&nbsp&nbsp
+  <a href="https://www.youtube.com/watch?v=W0G23J7AH_Y&list=PLAa7v3T-BgLMAaSi0zEofseecFV11WP1i&index=4" target="_blank" title="My Project Demo"><img align="center" src="https://github.com/burgyl/youtube-icon-link/blob/main/icon_128.png" alt="my-project-demo" height="45" />
+</a>
+</p>
 
-<div> 
-  <a href="https://www.linkedin.com/in/rini-joy-5957a437/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/rinimani7" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto: rinimani7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
-</br>
 
 👩‍💻 Summary
 Experienced Full Stack Developer and an engineering graduate with a master’s in business administration, transitioning from a background in cost control to the dynamic field of technology. Committed to impactful projects and problem-solving. Currently pursuing a Full Stack Developer Program at InceptionU, Calgary.
