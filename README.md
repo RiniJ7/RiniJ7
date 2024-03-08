@@ -72,6 +72,7 @@ Currently involved in empathizing, ideating, and prototyping a Grocery Applicati
   <a href="https://twitter.com/rinimani7" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto: rinimani7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
+  <iframe src="https://giphy.com/embed/fwbZnTftCXVocKzfxR" width="480" height="340" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PLCnext-plcnext-phoenixcontact-plcnexttechnology-fwbZnTftCXVocKzfxR">via GIPHY</a></p>
 </br>
  
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
