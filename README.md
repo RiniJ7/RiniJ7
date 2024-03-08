@@ -79,6 +79,7 @@ Currently involved in empathizing, ideating, and prototyping a Grocery Applicati
  
 </div>
 
+![Giphy GIF](https://media.giphy.com/media/KNUhETKTx63XgYHBt1/giphy.gif)
 
 
 
